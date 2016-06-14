@@ -2,7 +2,7 @@
 layout: default
 title: CURSO MOTIONGRAHICS
 subtitle: Blender 3D + Fusion // 2016
-imagen: img_portada_inv.png
+imagen: img_portada.png
 permalink: /
 link: Inicio
 pos: 1
@@ -21,4 +21,4 @@ A partir de las herramientas profesionales Blender 3D y BlackMagic Fusion, y en 
 
 ### A quién va dirigido
 
-Este modulo va dirigido a alumnos que hayan realizado el módulo de CAD previo, o aquellos estudiantes o profesionales que quieran mejorar la presentación de sus proyectos arquitectónicos a través del conocimiento en la creación de escenas 3D animadas, composición de efectos y generación de imágenes realistas.
+Curso dirigido a todos aquellos estudiantes y profesionales interesados en la realización de animaciones 3D y composición de efectos para cine, publicidad o vídeo, no es necesario tener conocimientos previos.

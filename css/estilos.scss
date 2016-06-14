@@ -1,7 +1,7 @@
 ---
 ---
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus {
-    background-color: rgb(20,220,220) !important;
+    background-color: rgb(60,60,60) !important;
 }
 
 .nav-pills li {
@@ -24,13 +24,14 @@ html {
      overflow-y: scroll;
 }
 body {
-    color: rgb(240,240,240);
+    background-color: rgb(240,240,240) !important; 
     height: 100%;    
 }
 
     body h4 {
         font-style: italic;
-        margin: 20px 0 20px 0;        
+        margin: 30px 0 30px 0;  
+        text-decoration: underline;      
     }
     
    body i {
@@ -67,7 +68,7 @@ body {
 }
 
 .contenido {
-     padding:0px 40px 0px 40px;     
+     padding:0px 30px 0px 30px;
 }
 
 .contenido h3  {
@@ -90,13 +91,23 @@ body {
     font-weight: 300;
 }
 
+.spanYellow {
+     background-color: yellow;
+}
+
+#barra-lateral {
+    background-color: white;
+    height:100%;
+    padding-right:20px;
+}
+
 
 
 .header {
     width:100%;
     height:25%;
    // background-color: #FFFF66;
-    background-color: rgb(40,40,50);
+  // background-color: rgb(40,40,50);
 }
 
 
@@ -105,6 +116,7 @@ body {
     text-transform: uppercase;
     font-size: 55px;
     font-weight: 300;
+    text-decoration: underline;
 }
 
 .header h3 { 
@@ -112,6 +124,7 @@ body {
     font-size: 25px;
     line-height: 20px;
     font-weight: 300;
+    text-decoration: underline;
 }
 
 #footer {

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: faq
-imagen: img_faq_inv.png
+imagen: img_faq.png
 permalink: /faq/
 link: faq
 pos: 6
@@ -32,17 +32,18 @@ El software que usaremos y que te animamos instales de iniciar el curso son los 
 
 Blender 3D (gratuito)
 
-	[htttp://www.blender3d.org]
+[htttp://www.blender3d.org](www.blender.org)
+
 
 Blackmagic Fusion
 
-	[https://www.blackmagicdesign.com/mx/products/fusion]
+[https://www.blackmagicdesign.com/mx/products/fusion](https://www.blackmagicdesign.com/mx/products/fusion)
 
 #### Inscripción
 
-Si estás decidido, ponte en contacto con nosotros: al ser un grupo reducido por curso, priorizaremos aquellos que realicen la inscripción antes.
+Si estás decidido, ponte en contacto con nosotros: al ser un grupo reducido por curso, <span class="spanYellow">priorizaremos aquellos que realicen la inscripción antes.</span>
 
-ara ello ponte en contacto, porque antes de cada curso vamos a realizar una reunión informal donde nos juntaremos todos para conocernos y sepáis de primera mano lo que ofrecemos antes de tomar tu decisión.
+Para ello ponte en contacto, porque antes de cada curso vamos a realizar una reunión informal donde nos juntaremos todos para conocernos y sepáis de primera mano lo que ofrecemos antes de tomar tu decisión.
 
 #### Asistencia
 
@@ -52,30 +53,23 @@ No podemos obligarte a que vengas, pero consideramos fundamental tu presencia; e
 
 Un pago único una semana antes de empezar el curso.
 
-Puedes realizar el pago en efectivo o por transferencia, a la siguiente cuenta:
+Puedes realizar el pago en efectivo o por transferencia.
 
-	Banco Scotiabank México
-	Jardines de la Hacienda, Blvd Hacienda del Jacal nº 220.
-	Querétaro, Qro.
-	CLABE: 044680035043068997
-
-¿Necesitas Factura?
+**¿Necesitas Factura?**
 
 Para solicitar tu factura, danos los datos de facturación antes del pago.
 
 
 #### Devoluciones y cancelaciones
 
-Te vamos a dar toda la información antes del curso para que puedas decidir si te conviene tomar el curso, pero entendemos que puedas cambiar de opinión o te surjan problemas de última hora; por ello te devolveremos los pagos que realices por ello podrás cancelar el curso y pedir tu devolución en 
+Te vamos a dar toda la información antes del curso para que puedas decidir si te conviene tomar el curso, pero entendemos que puedas cambiar de opinión o te surjan problemas de última hora; por ello podrás cancelar el curso y pedir tu devolución en los pagos que se hayan realizado dos semanas antes del curso.
 
-los pagos que se hayan realizado una semana antes del curso.
-
-No está incluidos los pagos realizados una semana antes o durante el transcurso del curso
+No está incluidos los pagos realizados la semana anterior o durante el transcurso del curso.
 
 
 #### Precio
 
-Curso completo:  4,500.00 en un pago único
+Curso completo: 4,500.00 en un pago único. 
 
 #### Contacto
 

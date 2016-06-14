@@ -10,7 +10,6 @@
 </head>
 <body>
 <div class="container-fluid">
-    <div class="row ">
         <!-- menu superior -->
         <nav class="navbar  visible-xs navbar-fixed-top">
             <div class="col-xs-1">
@@ -30,7 +29,7 @@
             </div>
         </nav>
         <!-- menu lateral -->
-        <div class="col-sm-2 col-md-2 hidden-xs menu text-right" style="position:fixed">
+        <div id="barra-lateral"  class="col-sm-2 col-md-2 hidden-xs menu text-right" style="position:fixed">
             <img id="logo" src="{{ site.baseurl }}/assets/logoCurso.png"  width="60%"/>
             <div class="col-md-12" >
                 <div class="col-md-12" style="padding-right:10px">
@@ -38,8 +37,12 @@
                     {% assign paginas = site.pages  | sort:'pos' %}
                     {% for my_page in paginas %}{% if my_page.title %}
                         <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.link }}</a></li>
-                    {% endif %}{% endfor %}
+                    {% endif %}{% endfor %}                   
                     </ul>
+                    <hr>
+                    <ul class="list-unstyled">
+                        <li><a href="">Instituciones</a></li>
+                    <li>
                 </div>
             </div>
         </div>
