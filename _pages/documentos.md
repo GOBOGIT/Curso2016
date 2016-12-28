@@ -16,7 +16,7 @@ pos: 7
 
 <div class="col-md-6 col-sm-6 col-xs-6">
 <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
-<p>Presentación del curso</p>
+<p>Presentación del curso 2017</p>
 </div>
 <div class="col-md-6 col-sm-6 col-xs-6">
 <i class="fa fa-file-text-o fa-3x" aria-hidden="true"></i>
