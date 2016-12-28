@@ -1,11 +1,12 @@
 ---
-layout: default
 title: Estructura  y formato
+permalink: "/estructura/"
+layout: default
 imagen: img_estructura.png
-permalink: /estructura/
 link: Estructura
 pos: 3
 ---
+
 &nbsp;
 <ul class="nav nav-pills nav-justified" data-tabs="tabs">
 <li class="active"><a data-toggle="tab" href="#planificacion">Planificación</a></li>

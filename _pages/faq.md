@@ -1,11 +1,12 @@
 ---
-layout: default
 title: faq
+permalink: "/faq/"
+layout: default
 imagen: img_faq.png
-permalink: /faq/
 link: faq
 pos: 6
 ---
+
 &nbsp;
 
 ### faqs / preguntas comunes

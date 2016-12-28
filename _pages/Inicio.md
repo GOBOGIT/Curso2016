@@ -1,12 +1,13 @@
 ---
-layout: default
 title: CURSO MOTIONGRAHICS
+permalink: "/"
+layout: default
 subtitle: Blender 3D + Fusion // 2016
 imagen: img_portada.png
-permalink: /
 link: Inicio
 pos: 1
 ---
+
 <div class="alert alert-success alert-dismissible text-center">
 <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 <strong>Abierto el registro para el próximo curso!</strong>

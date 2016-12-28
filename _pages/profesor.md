@@ -1,8 +1,8 @@
 ---
-layout: default
 title: profesor
+permalink: "/profesor/"
+layout: default
 imagen: img_profesor.png
-permalink: /profesor/
 link: profesor
 pos: 4
 ---

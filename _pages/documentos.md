@@ -1,11 +1,12 @@
 ---
-layout: default
 title: Documentos
+permalink: "/documentos/"
+layout: default
 imagen: img_material.png
-permalink: /documentos/
 link: Documentos
 pos: 7
 ---
+
 &nbsp;
 
 ### Documentos del curso y material de las clases (PDF):

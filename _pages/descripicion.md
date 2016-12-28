@@ -1,11 +1,12 @@
 ---
-layout: default
 title: Objetivos del curso
+permalink: "/Objetivos/"
+layout: default
 imagen: img_objetivos.png
-permalink: /Objetivos/
 link: Objetivos
 pos: 2
 ---
+
 &nbsp;
 
 ### Qué
