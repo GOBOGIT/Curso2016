@@ -1,0 +1,161 @@
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus {
+    background-color: rgb(60,60,60) !important;
+}
+
+.nav-pills li {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;  
+}
+
+table{
+     width: 100%;
+}
+
+td, th {
+    border-style: dotted;
+    border-width: 0px 30px 0px 0px;
+    border-color: rgba(10,0,0,0);
+}
+
+
+html {
+     overflow-y: scroll;
+}
+body {
+    background-color: rgb(240,240,240) !important; 
+    height: 100%;    
+}
+
+    body h4 {
+        font-style: normal;
+        margin: 30px 0 30px 0;  
+        text-decoration: underline;      
+    }
+    
+   body i {
+    font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+    
+}
+
+
+
+.container {
+   height: 100%;
+}
+
+.row {
+    height: 100%;
+     
+}
+.menu {
+    position: fixed;
+
+}
+
+.navbar {
+    padding: 10px 60px 0px 60px;
+    
+}
+
+.navbar h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;    
+    font-weight: 300;
+    padding:0px;
+    margin:0px;
+}
+
+.contenido {
+     padding:0px 30px 0px 30px;
+}
+
+.contenido h3  {
+   font-family: 'Open Sans', sans-serif;
+   text-decoration: underline;
+   font-weight: 300;
+   line-height: 60px;
+}
+
+#logo {
+    
+    margin:20px 0 40px 0;
+    text-align: center;
+}
+
+#logo h1 { 
+    font-family: 'Open Sans', sans-serif;
+    text-transform: uppercase;    
+    font-weight: 300;
+}
+
+.spanYellow {
+     background-color: yellow;
+}
+
+#barra-lateral {
+    background-color: white;
+    height:100%;
+    padding-right:20px;
+}
+
+
+
+.header {
+    width:100%;
+    height:25%;
+}
+
+
+.header h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 55px;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+.header h3 { 
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 25px;
+    line-height: 20px;
+    font-weight: 300;
+    text-decoration: underline;
+}
+
+#footer {
+    
+    padding-top:20px;
+    margin-top:100px;
+    height:200px;
+    border-top:1px dotted black;    
+}
+
+img[alt=logo_slack] { 
+    margin: 0 auto;
+    width: 150px; 
+}
+
+img[alt=logo_gobo] {
+    height: 40px;
+    opacity: 0.3;
+    filter: alpha(opacity=30);
+}
+img[alt=logo_cc] {
+    height: 30px; 
+    opacity: 0.1;
+    filter: alpha(opacity=10);
+}
+
+img[alt=imgPortada] {
+    margin-top:40px;
+    width:95%;
+}
+
+li {
+    line-height: 30px;
+}
+
+
+    
+@import "bootstrap";
